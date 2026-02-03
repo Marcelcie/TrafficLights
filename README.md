@@ -62,4 +62,4 @@ Każda dioda powinna być podłączona w szeregu z rezystorem do odpowiedniego p
 6.  Kliknij **Wgraj (Upload)**.
 
 ---
-*Autor: [Twój Nick/Imię]*
+*Autor: Marcel Cieślińśki*
